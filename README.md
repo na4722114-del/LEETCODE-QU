@@ -99,3 +99,23 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | 485 | Max Consecutive Ones | Easy | Single Pass / Counting |
 | 1470 | Shuffle the Array | Easy | Array Manipulation |
 | 1929 | Concatenation of Array | Easy | Array Manipulation |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
+<!---LeetCode Topics End-->
