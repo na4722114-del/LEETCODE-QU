@@ -105,10 +105,12 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0001-two-sum) |
 | [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
