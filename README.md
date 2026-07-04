@@ -106,6 +106,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0014-longest-common-prefix) |
 | [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
@@ -132,4 +133,12 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
