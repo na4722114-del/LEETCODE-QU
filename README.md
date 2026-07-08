@@ -144,6 +144,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | [0003-longest-substring-without-repeating-characters](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -152,4 +153,8 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
