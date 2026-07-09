@@ -107,6 +107,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | ------- |
 | [0001-two-sum](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -157,4 +158,8 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
