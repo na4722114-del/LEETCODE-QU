@@ -131,6 +131,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
