@@ -136,6 +136,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | ------- |
 | [0002-add-two-numbers](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0013-roman-to-integer) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/na4722114-del/LEETCODE-QU/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
