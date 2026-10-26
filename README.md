@@ -138,6 +138,7 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | ------- |
 | [0002-add-two-numbers](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0070-climbing-stairs) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/na4722114-del/LEETCODE-QU/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
@@ -169,4 +170,12 @@ int* getConcatenation(int* nums, int numsSize, int* returnSize)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0027-remove-element) |
 | [0876-middle-of-the-linked-list](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0876-middle-of-the-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/na4722114-del/LEETCODE-QU/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
